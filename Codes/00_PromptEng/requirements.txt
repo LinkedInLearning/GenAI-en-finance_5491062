@@ -1,0 +1,10 @@
+openai
+pypdf
+PyMuPDF
+gradio
+matplotlib
+numpy
+ollama
+pandas
+yfinance
+streamlit
