@@ -81,7 +81,7 @@ pip install -r requirements.txt
 - `ollama` – Modèles locaux pour le RAG  
 - `pandas`, `numpy`, `matplotlib`, `yfinance` – Analyse et visualisation de données financières  
 
-Toutes les dépendances sont listées dans [requirements.txt](./requirements.txt).
+Toutes les dépendances sont listées dans requirements.txt.
 
 
 
