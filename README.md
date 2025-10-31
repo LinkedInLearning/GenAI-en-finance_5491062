@@ -1,16 +1,13 @@
-# IA Générative appliquée à la Finance
+# Mettre en pratique l'IA générative en finance
 
-Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `Mettre en pratique l'IA générative en finance`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
+Destinée aux analystes financiers, data analysts, data scientists, professionnels de la conformité ou toute personne souhaitant appliquer l’IA générative à la finance, cette formation vous permettra d’acquérir les bases pratiques dans un contexte métier. Vous apprendrez à préparer votre environnement technique, cadrer un projet d’IA générative, rédiger et tester des prompts efficaces pour l’analyse financière, et construire un chatbot financier basé sur le RAG pour interroger des rapports complexes (texte, tableaux, PDF). Accompagné par Natacha Njongwa Yepnga, vous verrez également comment transformer ces approches en mini-applications concrètes qui font gagner du temps en finance, comptabilité et conformité. Vous disposerez ainsi d’un socle opérationnel solide, directement appliqué à vos futurs projets IA en entreprise.
 
-DESCRIPTION DE LA FORMATION
-
-Ce dépôt accompagne la formation "IA Générative appliquée à la Finance".
-Vous y trouverez des notebooks et fichiers d’exercices permettant de mettre en pratique :
-
-- Le Prompt Engineering appliqué à la finance
+Vous trouverez ici des notebooks et fichiers d’exercice permettant de mettre en pratique :
+- Le prompt engineering appliqué à la finance
 - Le RAG (Retrieval-Augmented Generation) avec données financières
 - Le développement d’applications interactives avec Gradio et Streamlit
 
@@ -19,8 +16,7 @@ Cette formation vous permettra de comprendre comment l’intelligence artificiel
 
 ## Instructions
 
-
-Ce dossier Repository contient l’ensemble des fichiers utilisés dans la formation.
+Ce dossier repository contient l’ensemble des fichiers utilisés dans la formation.
 Il ne comporte aucune branche spécifique : tout le contenu se trouve dans la branche principale (main).
 
 1. Téléchargez le dépôt via le bouton "Code > Download ZIP",
@@ -42,17 +38,14 @@ Il ne comporte aucune branche spécifique : tout le contenu se trouve dans la br
 
 ## Installation
 
-
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de :
    - Python 3.10 ou version supérieure
    - Des bibliothèques listées dans requirements.txt
      (exemples : openai, gradio, streamlit, pandas, numpy, yfinance, etc.)
 
-2. Clonez ce dossier Repository sur votre machine locale (Mac, CMD Windows ou outil GUI tel que SourceTree).
+2. Clonez ce dossier repository sur votre machine locale (Mac, CMD Windows ou outil GUI tel que SourceTree).
 
 3. Suivez les instructions spécifiques dans les fichiers de code pour exécuter les exemples.
-
-
 
 
 ### Formateur
