@@ -6,6 +6,8 @@ Ce dossier Repository est lié au cours `Mettre en pratique l'IA générative en
 
 Destinée aux analystes financiers, data analysts, data scientists, professionnels de la conformité ou toute personne souhaitant appliquer l’IA générative à la finance, cette formation vous permettra d’acquérir les bases pratiques dans un contexte métier. Vous apprendrez à préparer votre environnement technique, cadrer un projet d’IA générative, rédiger et tester des prompts efficaces pour l’analyse financière, et construire un chatbot financier basé sur le RAG pour interroger des rapports complexes (texte, tableaux, PDF). Accompagné par Natacha Njongwa Yepnga, vous verrez également comment transformer ces approches en mini-applications concrètes qui font gagner du temps en finance, comptabilité et conformité. Vous disposerez ainsi d’un socle opérationnel solide, directement appliqué à vos futurs projets IA en entreprise.
 
+Ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. Consultez la vidéo "Utiliser Codespaces sur GitHub" pour savoir comment démarrer
+
 Vous trouverez ici des notebooks et fichiers d’exercice permettant de mettre en pratique :
 - Le prompt engineering appliqué à la finance
 - Le RAG (Retrieval-Augmented Generation) avec données financières
@@ -58,6 +60,6 @@ Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
-[lil-URL-trainer]: https://
+[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/natacha-njongwa-yepnga
 
 [1]: # (End of FR-Instruction ###############################################################################################)
