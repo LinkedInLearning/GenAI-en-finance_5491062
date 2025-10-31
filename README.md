@@ -1,4 +1,4 @@
-# Nom final de la formation
+# IA Générative appliquée à la Finance
 
 Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
@@ -7,40 +7,58 @@ Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours en
 
 DESCRIPTION DE LA FORMATION
 
+Ce dépôt accompagne la formation "IA Générative appliquée à la Finance".
+Vous y trouverez des notebooks et fichiers d’exercices permettant de mettre en pratique :
+
+- Le Prompt Engineering appliqué à la finance
+- Le RAG (Retrieval-Augmented Generation) avec données financières
+- Le développement d’applications interactives avec Gradio et Streamlit
+
+Cette formation vous permettra de comprendre comment l’intelligence artificielle générative transforme le secteur financier et comment concevoir vos propres outils d’analyse basés sur des modèles de langage (LLMs).
+
+
 ## Instructions
 
-Ce dossier Repository a des branches pour chacune des vidéos du cours. Vous pouvez utiliser le menu des Branches sur GitHub afin d’accéder aux passages qui vous intéressent. Vous pouvez également rajouter `/tree/BRANCH_NAME` à l’URL afin d’accéder à la branche qui vous intéresse. 
 
-## Branches
+Ce dossier Repository contient l’ensemble des fichiers utilisés dans la formation.
+Il ne comporte aucune branche spécifique : tout le contenu se trouve dans la branche principale (main).
 
-Les branches sont structurées de manière à correspondre aux vidéos du cours. La convention de nommage est : `CHAPITRE#_VIDEO#`. Par exemple, la branche nommée`02_03` correspond au second chapitre, et à la troisième vidéo de ce chapitre. Certaines branches ont un état de départ et de fin.  
-La branche `02_03_d` correspond au code du début de la vidéo.  
-La branche `02_03_f` correspond au code à la fin de la vidéo.  
-La branche master correspond au code à la fin de la formation. 
+1. Téléchargez le dépôt via le bouton "Code > Download ZIP",
+   ou clonez-le avec la commande :
+      git clone url_de_la_formation
 
-Lorsque vous passez d’une branche des fichiers d’exercice à une autre après avoir fait des modifications, il est possible que vous ayez un message d’erreur similaire à : 
+2. Installez les dépendances nécessaires :
+      pip install -r requirements.txt
 
-	error: Your local changes to the following files would be overwritten by checkout:        [files]
-	Please commit your changes or stash them before you switch branches.
-	Aborting
+3. Lancez les applications :
+   - Application Gradio :
+        python app.py
+     L’application sera disponible sur : http://127.0.0.1:7860
 
-Afin de résoudre ce souci, vous devez :
-
-	Rajouter les changements au git en utilisant la commande : git add .
-	Enregistrer les changements avec la commande : git commit -m "message de votre choix"
+   - Application Streamlit :
+        streamlit run main.py
+     L’application s’ouvrira automatiquement dans votre navigateur.
 
 
 ## Installation
 
-1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
-   - [Liste des logiciels/dépendances utiles à la formation] 
-2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3. [Instructions spécifiques au cours] 
+
+1. Pour utiliser ces fichiers d’exercice, vous avez besoin de :
+   - Python 3.10 ou version supérieure
+   - Des bibliothèques listées dans requirements.txt
+     (exemples : openai, gradio, streamlit, pandas, numpy, yfinance, etc.)
+
+2. Clonez ce dossier Repository sur votre machine locale (Mac, CMD Windows ou outil GUI tel que SourceTree).
+
+3. Suivez les instructions spécifiques dans les fichiers de code pour exécuter les exemples.
+
+
 
 
 ### Formateur
-
-**Nom du formateur** 
+ 
+**Natacha NJONGWA YEPNGA**  
+Data Scientist • Quantitative Analyst • Fondatrice de LDA Advisory
 
 Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
