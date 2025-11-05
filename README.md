@@ -1,6 +1,6 @@
 # Mettre en pratique l'IA générative en finance
 
-Ce dossier Repository est lié au cours `Mettre en pratique l'IA générative en finance`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier repository est lié au cours `Mettre en pratique l'IA générative en finance`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
