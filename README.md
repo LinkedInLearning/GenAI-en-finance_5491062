@@ -59,7 +59,7 @@ Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQFW2iGx9dRLfA/learning-public-crop_675_1200/B4EZn0AVcxGYAY-/0/1760735353379?e=2147483647&v=beta&t=4n-DW8ew2oNMkI9olpV7355ZqhZAi__RkTx98pkoatw
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/natacha-njongwa-yepnga
 
 [1]: # (End of FR-Instruction ###############################################################################################)
